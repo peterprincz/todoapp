@@ -13,7 +13,9 @@ Egy felületet szeretnénk viszont látni ahol teendőket tudunk létrehozni, t�
 - A teendők legalább az alkalmazás futása idejéig ne vesszenek el.
 - A teendőkkel kapcsolatos műveletek(létrehozás,törlés, módosítás) aszinkron(AJAX) történjenek.  
 
-Nem vágyunk teljes értékű projektre (Logok,Tesztek,Responsive és csinos design), csak müködjön, 2-3 óránál semmiféleképp ne foglalkozz vele :)
+Nem vágyunk teljes értékű projektre (logok,tesztek,dokumentáció,responsive és csinos design), csak müködjön, 2-3 óránál semmiféleképp ne foglalkozz vele :)
+
+Készült egy referencia példa is ihlet gyanánt (link a leirás elején), de nem másolást kérünk, nyugodtan éld ki kreativitásod olyan extra funkciókkal amiket egy igazi felhasználó is szivesen látna egy ilyen alkalmatzásban.
 
 Build és futtatás(Maven és JRE installáció szükséges):
 
