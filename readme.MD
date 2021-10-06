@@ -19,4 +19,4 @@ Build és futtatás(Maven és JRE installáció szükséges):
 
 `mvn clean install`
 
-`mvn spring-boot:run` vagy `java -jar ./target/todoApp-1.0.0.jar`
+`mvn spring-boot:run` vagy `java -jar ./target/todoApp-1.0.0.jar` vagy IDE-ban a main method futtatása
